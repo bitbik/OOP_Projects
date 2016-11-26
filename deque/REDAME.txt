@@ -1,0 +1,4 @@
+Use a macro to implement a ¡°template¡± for a double-ended queue container, known as a deque, in C. 
+
+
+The hpp file is tested with the provided test.cpp, and yields the same output as output file shows.
